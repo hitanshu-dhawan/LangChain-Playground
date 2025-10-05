@@ -1,0 +1,3 @@
+[submodule "LangChain Academy/Project - Deep Agents with LangGraph/deep-agents-from-scratch"]
+	path = LangChain Academy/Project - Deep Agents with LangGraph/deep-agents-from-scratch
+	url = git@github.com:hitanshu-dhawan/deep-agents-from-scratch.git
