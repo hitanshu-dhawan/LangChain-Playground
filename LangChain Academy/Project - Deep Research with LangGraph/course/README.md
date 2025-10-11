@@ -13,3 +13,7 @@ Course Link : https://academy.langchain.com/courses/deep-research-with-langgraph
 * Module 6: Multi-Agent Research System - [Video](resources/Module_6_Multi-Agent_Research_System.mp4) | [Notebook](https://github.com/hitanshu-dhawan/deep_research_from_scratch/blob/main/notebooks/5_full_agent.ipynb) | [Resources](Module%206%20-%20Resources.md)
 
 ---
+
+LangChain Open Deep Research : https://github.com/langchain-ai/open_deep_research
+
+---
